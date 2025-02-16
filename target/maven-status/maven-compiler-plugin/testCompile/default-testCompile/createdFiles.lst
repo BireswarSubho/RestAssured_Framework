@@ -1,0 +1,10 @@
+TestCases\UserTest.class
+Endpoints\Routes.class
+TestCases\DDTest.class
+Utils\ExtentReportUtiles.class
+TestCases\UserTest_viaProperties.class
+Utils\DataProviders.class
+Utils\ExcelUtils.class
+Endpoints\UserEndPoints.class
+Payload\User.class
+Endpoints\UserEndPoints_viaProperties.class

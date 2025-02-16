@@ -1,0 +1,49 @@
+20:03:51.051 [main] INFO  TestCases.UserTest -************Creating user************
+20:03:55.055 [main] INFO  TestCases.UserTest -***********User is created************
+20:03:55.055 [main] INFO  TestCases.UserTest -************Reading user info************
+20:03:56.056 [main] INFO  TestCases.UserTest -************Updating user info************
+20:03:58.058 [main] INFO  TestCases.UserTest -************User info is updated************
+20:03:58.058 [main] INFO  TestCases.UserTest -************Deleting user info************
+20:03:59.059 [main] INFO  TestCases.UserTest -************User info is deleted************
+10:46:16.016 [main] INFO  TestCases.UserTest_viaProperties -************Creating user************
+10:46:21.021 [main] INFO  TestCases.UserTest_viaProperties -************Reading user info************
+10:46:22.022 [main] INFO  TestCases.UserTest_viaProperties -************Updating user info************
+10:46:23.023 [main] INFO  TestCases.UserTest_viaProperties -************Deleting user info************
+10:47:39.039 [main] INFO  TestCases.UserTest_viaProperties -************Creating user************
+10:47:43.043 [main] INFO  TestCases.UserTest_viaProperties -************Reading user info************
+10:47:44.044 [main] INFO  TestCases.UserTest_viaProperties -************Updating user info************
+10:47:45.045 [main] INFO  TestCases.UserTest_viaProperties -************Deleting user info************
+10:50:20.020 [main] INFO  TestCases.UserTest -************Creating user************
+10:50:24.024 [main] INFO  TestCases.UserTest -***********User is created************
+10:50:24.024 [main] INFO  TestCases.UserTest -************Reading user info************
+10:50:26.026 [main] INFO  TestCases.UserTest -************Updating user info************
+10:50:27.027 [main] INFO  TestCases.UserTest -************User info is updated************
+10:50:27.027 [main] INFO  TestCases.UserTest -************Deleting user info************
+10:50:28.028 [main] INFO  TestCases.UserTest -************User info is deleted************
+10:52:54.054 [main] INFO  TestCases.UserTest -************Creating user************
+10:52:58.058 [main] INFO  TestCases.UserTest -***********User is created************
+10:52:58.058 [main] INFO  TestCases.UserTest -************Reading user info************
+10:53:00.000 [main] INFO  TestCases.UserTest -************Updating user info************
+10:53:01.001 [main] INFO  TestCases.UserTest -************User info is updated************
+10:53:01.001 [main] INFO  TestCases.UserTest -************Deleting user info************
+10:53:02.002 [main] INFO  TestCases.UserTest -************User info is deleted************
+10:53:46.046 [main] INFO  TestCases.UserTest_viaProperties -************Creating user************
+10:53:51.051 [main] INFO  TestCases.UserTest_viaProperties -************Reading user info************
+10:53:52.052 [main] INFO  TestCases.UserTest_viaProperties -************Updating user info************
+10:53:53.053 [main] INFO  TestCases.UserTest_viaProperties -************Deleting user info************
+10:56:02.002 [main] INFO  TestCases.UserTest_viaProperties -************Creating user************
+10:56:06.006 [main] INFO  TestCases.UserTest_viaProperties -***********User is created************
+10:56:06.006 [main] INFO  TestCases.UserTest_viaProperties -************Reading user info************
+10:56:08.008 [main] INFO  TestCases.UserTest_viaProperties -************Updating user info************
+10:56:09.009 [main] INFO  TestCases.UserTest_viaProperties -************User info is updated************
+10:56:09.009 [main] INFO  TestCases.UserTest_viaProperties -************Deleting user info************
+10:56:10.010 [main] INFO  TestCases.UserTest_viaProperties -************User info is deleted************
+11:02:14.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+11:02:14.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:02:14.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+11:02:15.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+11:02:15.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:02:15.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+11:02:15.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+11:02:15.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:02:15.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
